@@ -1,0 +1,11 @@
+D:\Documents\MSSA\C#\4dayClean\4dayClean\bin\Debug\netcoreapp3.1\4dayClean.exe
+D:\Documents\MSSA\C#\4dayClean\4dayClean\bin\Debug\netcoreapp3.1\4dayClean.deps.json
+D:\Documents\MSSA\C#\4dayClean\4dayClean\bin\Debug\netcoreapp3.1\4dayClean.runtimeconfig.json
+D:\Documents\MSSA\C#\4dayClean\4dayClean\bin\Debug\netcoreapp3.1\4dayClean.runtimeconfig.dev.json
+D:\Documents\MSSA\C#\4dayClean\4dayClean\bin\Debug\netcoreapp3.1\4dayClean.dll
+D:\Documents\MSSA\C#\4dayClean\4dayClean\bin\Debug\netcoreapp3.1\4dayClean.pdb
+D:\Documents\MSSA\C#\4dayClean\4dayClean\obj\Debug\netcoreapp3.1\4dayClean.csprojAssemblyReference.cache
+D:\Documents\MSSA\C#\4dayClean\4dayClean\obj\Debug\netcoreapp3.1\4dayClean.AssemblyInfoInputs.cache
+D:\Documents\MSSA\C#\4dayClean\4dayClean\obj\Debug\netcoreapp3.1\4dayClean.AssemblyInfo.cs
+D:\Documents\MSSA\C#\4dayClean\4dayClean\obj\Debug\netcoreapp3.1\4dayClean.dll
+D:\Documents\MSSA\C#\4dayClean\4dayClean\obj\Debug\netcoreapp3.1\4dayClean.pdb
