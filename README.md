@@ -59,4 +59,4 @@ Visual Studio 2019
 
 ## Acknowledgments
 
-* Am individual project during the Microsoft Software and Systems Academy
+* An individual project during the Microsoft Software and Systems Academy
