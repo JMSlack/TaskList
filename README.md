@@ -40,7 +40,12 @@ Save and Quit
 2. Select a save file: 1, 2, 3 and press Enter (This will overwrite any file in the existing slot).
 3. Type 'Q' and press 'Enter' to quit (this step can be taken before saving to skip the save step).
 
+## Planned Future Improvements
 
+1. Clean up formatting.
+2. Allow users to change Page length.
+3. Allow users to upload txt files from different paths
+4.. Convert to a web application.
 
 ## Built With
 
