@@ -12,9 +12,9 @@ namespace _4dayClean
             List<string> userList = new List<string>();
             List<int> completed = new List<int>();
             ConsoleKey keyInfo;
-            string filepath1 = @"D:\Documents\MSSA\C#\4dayClean\task1.md";
-            string filepath2 = @"D:\Documents\MSSA\C#\4dayClean\task2.md";
-            string filepath3 = @"D:\Documents\MSSA\C#\4dayClean\task3.md";
+            string filepath1 = $"..\\..\\..\\task1.md";
+            string filepath2 = $"..\\..\\..\\task2.md";
+            string filepath3 = $"..\\..\\..\\task3.md";
 
 
             var done = false;
